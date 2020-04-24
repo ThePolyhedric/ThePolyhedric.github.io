@@ -1,0 +1,92 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on The Polyhedric</title>
+		<link>https://thepolyhedric.github.io/posts/</link>
+		<description>Recent content in Posts on The Polyhedric</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 10 Mar 2012 08:23:39 +0200</lastBuildDate>
+		<atom:link href="https://thepolyhedric.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Sole</title>
+			<link>https://thepolyhedric.github.io/posts/sole/</link>
+			<pubDate>Sat, 10 Mar 2012 08:23:39 +0200</pubDate>
+			
+			<guid>https://thepolyhedric.github.io/posts/sole/</guid>
+			<description>SOLE Il sole, così in alto,
+dalla sua autorita’
+trasforma il buio in luce e calore,
+il malumore in buonumore,
+la tristezza in allegrezza,
+il dove in bellezza.
+Übersetzung auf deutsch
+SONNE Die Sonne, so hoch,
+ihre Autorität verwandelt Finsternis in Licht und Wärme,
+Misstimmung in Gute Laune,
+Traurigkeit in Fröhlichkeit,
+das Wo in Schönheit.</description>
+			<content type="html"><![CDATA[<h2 id="sole">SOLE</h2>
+<p>Il sole, così in alto,<br>
+dalla sua autorita’<br>
+trasforma il buio in luce e calore,</p>
+<p>il malumore in buonumore,<br>
+la tristezza in allegrezza,</p>
+<p>il dove in bellezza.</p>
+<p><em>Übersetzung auf deutsch</em></p>
+<h2 id="sonne">SONNE</h2>
+<p>Die Sonne, so hoch,<br>
+ihre Autorität verwandelt Finsternis in Licht und Wärme,</p>
+<p>Misstimmung in Gute Laune,<br>
+Traurigkeit in Fröhlichkeit,</p>
+<p>das Wo in Schönheit.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Regimi</title>
+			<link>https://thepolyhedric.github.io/posts/regimi/</link>
+			<pubDate>Tue, 29 Nov 2011 08:35:03 +0200</pubDate>
+			
+			<guid>https://thepolyhedric.github.io/posts/regimi/</guid>
+			<description>REGIMI Sul palco un susseguirsi di grandi attori,
+sotto, i spettatori in quel teatro cadente,
+alcuni felici, il piu’ stanchi
+di riveder lo stesso spettacolo ancora,
+con la sfuggevole speranza
+di poter cambiare in una sola infinita ora.</description>
+			<content type="html"><![CDATA[<h2 id="regimi">REGIMI</h2>
+<p>Sul palco un susseguirsi di grandi attori,<br>
+sotto, i spettatori in quel teatro cadente,</p>
+<p>alcuni felici, il piu’ stanchi<br>
+di riveder lo stesso spettacolo ancora,</p>
+<p>con la sfuggevole speranza<br>
+di poter cambiare in una sola infinita ora.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>11032011</title>
+			<link>https://thepolyhedric.github.io/posts/11032011/</link>
+			<pubDate>Fri, 11 Mar 2011 08:19:49 +0200</pubDate>
+			
+			<guid>https://thepolyhedric.github.io/posts/11032011/</guid>
+			<description>11 MARZO 2011 Terra tremante,
+Acqua andante,
+Aria ardua da respirar,
+Fuoco faticoso da domar.
+Gli Elementi si sollevano con forza costante,
+contro quel fragile invincibile Sol Levante.</description>
+			<content type="html"><![CDATA[<h2 id="11-marzo-2011">11 MARZO 2011</h2>
+<p>Terra tremante,<br>
+Acqua andante,<br>
+Aria ardua da respirar,<br>
+Fuoco faticoso da domar.</p>
+<p>Gli Elementi si sollevano con forza costante,<br>
+contro quel fragile invincibile Sol Levante.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

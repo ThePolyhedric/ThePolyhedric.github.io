@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 10 Mar 2012 08:23:39 +0200</lastBuildDate>
     
 	<atom:link href="https://thepolyhedric.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poesia</title>
+      <link>https://thepolyhedric.github.io/tags/poesia/</link>
+      <pubDate>Sat, 10 Mar 2012 08:23:39 +0200</pubDate>
+      
+      <guid>https://thepolyhedric.github.io/tags/poesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poesia, Gedicht</title>
+      <link>https://thepolyhedric.github.io/tags/poesia-gedicht/</link>
+      <pubDate>Sat, 10 Mar 2012 08:23:39 +0200</pubDate>
+      
+      <guid>https://thepolyhedric.github.io/tags/poesia-gedicht/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
